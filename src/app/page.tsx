@@ -2,7 +2,7 @@
 
 import { useActionState } from "react"
 import * as React from "react"
-import { MpesaFlowAction } from "./action"
+import { MpesaFlowAction } from "./actions"
 import { Label } from "@/components/ui/label"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
